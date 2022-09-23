@@ -1,3 +1,3 @@
 UPDATE order_details
-SET discount = 0
-WHERE discount = 15;
+SET discount = 15
+WHERE discount = 0;
