@@ -1,13 +1,22 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Project Mysql All For One
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Mysql All For One é um projeto focado em práticar a criação de dados, filtragem de dados e manipulação de tabelas utilizando o mysql.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
+
+## Técnologias usadas
+* Docker
+* Docker Compose
+* Mysql
+* Sequelize
+
+## Exércicios
+<img alt="imagem-requisitos-do-projeto" src="/requisitos.png">
+
+## Utilizando o docker
+Para criar os containers, execute: `docker-compose up -d`
+
+Para abrir o terminar do container, execute: `docker exec -it all_for_one bash`
+
+## Instalando Dependências
+  `npm install`
