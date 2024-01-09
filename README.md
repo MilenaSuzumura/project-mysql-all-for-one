@@ -1,4 +1,4 @@
-# Project Mysql All For One
+# Mysql All For One
 
 Mysql All For One é um projeto focado em práticar a criação de dados, filtragem de dados e manipulação de tabelas utilizando o mysql.
 
